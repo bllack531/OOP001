@@ -1,4 +1,2 @@
 # OOP001
-Ivan Charnow
-2.02
-ISiT
+# Ivan Charnow 2 - 2 ISiT
